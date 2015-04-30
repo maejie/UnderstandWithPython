@@ -1,4 +1,4 @@
-WhiskyFloat
+Understand With Python
 ===
 
-TEST
+Python勉強会　資料
